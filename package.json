@@ -1,0 +1,18 @@
+{
+  "scripts": {
+    "start": "lite-server",
+    "build": "webpack"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.22.1",
+    "@babel/preset-env": "^7.22.2",
+    "@babel/preset-typescript": "^7.21.5",
+    "babel-loader": "^9.1.2",
+    "lite-server": "^2.6.1",
+    "ts-loader": "^9.4.3",
+    "typescript": "^5.0.4",
+    "webpack": "^5.84.1",
+    "webpack-cli": "^5.1.1",
+    "webpack-dev-server": "^4.15.0"
+  }
+}
